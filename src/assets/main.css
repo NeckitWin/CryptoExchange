@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(340deg, rgb(115, 0, 121), rgb(49, 0, 114));
+  min-height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Nabla", system-ui;
+  font-size: 5em;
+  margin-top: 100px;
+  color: #FFF;
+  text-shadow: 0 0 10px rgb(255, 243, 0);
+}
